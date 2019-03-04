@@ -1,0 +1,7 @@
+!mysql-data/.gitkeep
+mysql-data/
+plugins/akismet
+plugins/hello.php
+themes/twentynineteen
+themes/twentyseventeen
+themes/twentysixteen
